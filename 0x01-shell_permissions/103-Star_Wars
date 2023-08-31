@@ -1,2 +1,2 @@
 #!/bin/bash
-curl -s "https://raw.githubusercontent.com/holman/starwars/master/starwars.txt" | sed -n '13,61p;62q'
+telnet towel.blinkenlights.nl
